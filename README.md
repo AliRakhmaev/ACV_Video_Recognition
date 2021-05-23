@@ -1,3 +1,3 @@
 # ACV_Video_Recognition
 Course project
-Link for Kaggle notebook: https://www.kaggle.com/alirakhmaev/gluon-test
+Experimenting with SOTA action recognition models, including the TimesFormer from FAIR on UCF Crime dataset
